@@ -1,6 +1,6 @@
 ## Heyyyyy!!!!! 👋
 
-I am a Systems Engoneer and dabble with Cybersecurity whenever I have time.
+I am a Systems Engineer and dabble with Cybersecurity whenever I have time.
 
 My current interests are in:
 
@@ -30,6 +30,10 @@ Some of the certification I have are:
 * arcX Foundational Threat Intelligence Analyst (FTIA)
 * SecurityBlueTeam - Blue Team Junior Analyst (BTJA)
 * ISC2 Certified in CyberSecurity (CC)
+* Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions
+* Microsoft Specialist - Server Virtualization with Windows Server Hyper-V and System Center
+* CompTIA Network+
+* ITIL V3
 
 <!--
 **sherwinps/sherwinps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
