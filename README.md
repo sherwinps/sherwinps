@@ -7,7 +7,8 @@ I have more then 25+ years of acquired experience and expertise in:
 * Application Deployment and Automation
 
 My current interests are in:
-* Offensive and Cloud Security
+* Offensive Security
+* Multi-Cloud Penetration Testing (GCP, AWS, Azure)
 * Red Teaming
 * Purple Teaming
 
@@ -21,7 +22,8 @@ Some of the certification I have are:
 * AttackIQ - Intermediate Purple Teaming
 * AttackIQ - Threat Informed Architecture
 * AttackIQ - Emulation PLanning for Purple Teams
-* TryHckMe - Offensive Pentesting, Red Teaming
+* TryHackMe - Offensive Pentesting
+* TryHackMe - Red Teaming
 * OPSWAT Ethical Hacking Expert (OEHE)
 * OPSWAT Web Exploitation Explert (OWEE)
 * OPSWAT Comprehensive OSINT Expert (OCOE)
