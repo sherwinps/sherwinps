@@ -13,7 +13,7 @@ My current interests are in:
 * Purple Teaming
 
 Some of the certification I have are:
-* CyberWarfare Labs - Certified Red Team - CredOps Infiltrator (CRT-C0I)
+* CyberWarfare Labs - Certified Red Team - CredOps Infiltrator (CRT-COI)
 * CyberWarfare Labs - Certified Process Injections Analyst (CPIA)
 * CyberWarfare Labs - Multi-Cloud Red Team Analyst (MRTA)
 * CyberWarfare Labs - Certified Cybersecurity Analyst (C3SA)
