@@ -2,9 +2,8 @@
 
 I have more then 25+ years of acquired experience and expertise in:
 * Systems Engineering
+* Systems Management
 * Systems and Cloud Administration
-* Identity and Access Management
-* Mobile Device Management
 * Application Deployment, Packaging and Automation
 * Server and Desktop Virtualization
 
