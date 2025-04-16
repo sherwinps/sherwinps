@@ -17,7 +17,7 @@ Some of the certification I have are:
 * The SecOps Group - CNSP | CAP
 * AttackIQ - Intermediate Purple Teaming | Threat Informed Architecture | Emulation PLanning for Purple Teams
 * TryHackMe - Offensive Pentesting | Red Teaming
-* OPSWAT - OEHE | OCOE |OWEE
+* OPSWAT - OEHE | OCOE | OWEE
 * CISCO Networking Academy - Ethical Hacker | Cyber Threat Management | Network Defense | Endpoint Security
 * arcX Foundational Threat Intelligence Analyst (FTIA)
 * SecurityBlueTeam - Blue Team Junior Analyst (BTJA)
