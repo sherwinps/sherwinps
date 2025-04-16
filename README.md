@@ -15,7 +15,7 @@ My current interests are in:
 Some of the certification I have are:
 * CyberWarfare Labs - CRT-COI | CPIA | MCRTA | C3SA | PTF | PTF
 * The SecOps Group - CNSP | CAP
-* AttackIQ - Intermediate Purple Teaming | Threat Informed Architecture | Emulation PLanning for Purple Teams
+* AttackIQ - Intermediate Purple Teaming | Threat Informed Architecture | Emulation Planning for Purple Teams
 * TryHackMe - Offensive Pentesting | Red Teaming
 * OPSWAT - OEHE | OCOE | OWEE
 * CISCO Networking Academy - Ethical Hacker | Cyber Threat Management | Network Defense | Endpoint Security
