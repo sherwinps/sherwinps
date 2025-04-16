@@ -13,7 +13,7 @@ My current interests are in:
 * Red Teaming
 * Purple Teaming
 
-Some of the certification I have are:
+Some of the certifications I have are:
 * Red Team:  CRT-COI | CPIA | MCRTA | C3SA | CNSP | CAP | THM - Offensive Pentesting | THM - Red Teaming | CNA - Ethical Hacker | OEHE | OWEE 
 * Purple Team: AIQ  (Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning) | PTF | FTIA | CNA - Cyberthreat Management
 * Blue Team: BTJA | BTF | CNA - Network Defense | CNA - Endpoint Security
