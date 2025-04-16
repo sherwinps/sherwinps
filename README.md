@@ -13,29 +13,16 @@ My current interests are in:
 * Purple Teaming
 
 Some of the certification I have are:
-* CyberWarfare Labs - Certified Red Team - CredOps Infiltrator (CRT-COI)
-* CyberWarfare Labs - Certified Process Injections Analyst (CPIA)
-* CyberWarfare Labs - Multi-Cloud Red Team Analyst (MRTA)
-* CyberWarfare Labs - Certified Cybersecurity Analyst (C3SA)
-* The SecOps Group - Certified Network Security Practitioner (CNSP)
-* The SecOps Group - Certified AppSec Practitioner (CAP)
-* AttackIQ - Intermediate Purple Teaming
-* AttackIQ - Threat Informed Architecture
-* AttackIQ - Emulation PLanning for Purple Teams
-* TryHackMe - Offensive Pentesting
-* TryHackMe - Red Teaming
-* OPSWAT Ethical Hacking Expert (OEHE)
-* OPSWAT Web Exploitation Explert (OWEE)
-* OPSWAT Comprehensive OSINT Expert (OCOE)
-* CISCO Networking Academy - Ethical Hacker
-* CISCO Networking Academy - Cyber Threat Management
-* CISCO Networking Academy - Network Defense
-* CISCO Networking Academy - Endpoint Security
+* CyberWarfare Labs - CRT-COI | CPIA | MCRTA | C3SA | PTF | PTF
+* The SecOps Group - CNSP | CAP
+* AttackIQ - Intermediate Purple Teaming | Threat Informed Architecture | Emulation PLanning for Purple Teams
+* TryHackMe - Offensive Pentesting | Red Teaming
+* OPSWAT - OEHE | OCOE |OWEE
+* CISCO Networking Academy - Ethical Hacker | Cyber Threat Management | Network Defense | Endpoint Security
 * arcX Foundational Threat Intelligence Analyst (FTIA)
 * SecurityBlueTeam - Blue Team Junior Analyst (BTJA)
 * ISC2 Certified in CyberSecurity (CC)
-* Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions
-* Microsoft Specialist - Server Virtualization with Windows Server Hyper-V and System Center
+* Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions | Server Virtualization with Windows Server Hyper-V and System Center
 * CompTIA Network+
 * ITIL V3
 
