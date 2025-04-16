@@ -1,15 +1,17 @@
 ## Heyyyyy!!!!! 😎😎😎
 
-I am a Systems Engineer and dabble with Cybersecurity whenever I have time.
+I have more then 25+ years of acquired experience and expertise in:
+* Systems Engineering
+* Systems and Cloud Administration
+* Identity and Access Management
+* Application Deployment and Automation
 
 My current interests are in:
-
 * Offensive and Cloud Security
 * Red Teaming
 * Purple Teaming
 
 Some of the certification I have are:
-
 * CyberWarfare Labs - Certified Red Team - CredOps Infiltrator (CRT-C0I)
 * CyberWarfare Labs - Certified Process Injections Analyst (CPIA)
 * CyberWarfare Labs - Multi-Cloud Red Team Analyst (MRTA)
