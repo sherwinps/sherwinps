@@ -16,7 +16,7 @@ My current interests are in:
 Some of the certification I have are:
 * Red Team:  CRT-COI | CPIA | MCRTA | C3SA | CNSP | CAP | THM - Offensive Pentesting | THM - Red Teaming | CNA - Ethical Hacker | OEHE | OWEE 
 * Purple Team: AIQ  (Intermediate Purple Teaming | Threat Informed Architecture | Emulation Planning for Purple Teams) | PTF | FTIA | CNA - Cyberthreat Management
-* Blue Team: BTJA | BTF | CNA - Network Defenses | CNA - Endpoint Security
+* Blue Team: BTJA | BTF | CNA - Network Defense | CNA - Endpoint Security
 * ISC2 Certified in CyberSecurity (CC)
 * Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions | Server Virtualization with Windows Server Hyper-V and System Center
 * CompTIA Network+
