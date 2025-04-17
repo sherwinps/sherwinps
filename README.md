@@ -18,7 +18,8 @@ Some of the certifications I have are:
 * Purple Team: AIQ  (Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning) | PTF | FTIA | CNA - Cyberthreat Management
 * Blue Team: BTJA | BTF | CNA - Network Defense | CNA - Endpoint Security
 * ISC2 Certified in CyberSecurity (CC)
-* Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions | Server Virtualization with Windows Server Hyper-V and System Center
+* Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions
+* Microsoft Specialist - Server Virtualization with Windows Server Hyper-V and System Center
 * CompTIA Network+
 * ITIL V3
 
