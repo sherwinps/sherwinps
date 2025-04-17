@@ -7,7 +7,7 @@ I have years of acquired experience (and expertise) in:
 * Application Deployment, Packaging and Automation
 * Server and Desktop Virtualization
 
-I use my spare time to explore and learn everything I can about:
+If I have some time, I try to explore and learn everything I can about:
 * Offensive Security
 * Multi-Cloud Penetration Testing
 * Red Teaming
