@@ -1,15 +1,15 @@
 ## Heyyyyy!!!!! 😎😎😎
 
-I have more then 25+ years of acquired experience and expertise in:
+I have years of acquired experience (and expertise) in:
 * Systems Engineering
 * Systems Management
 * Systems and Cloud Administration
 * Application Deployment, Packaging and Automation
 * Server and Desktop Virtualization
 
-My current interests are in:
+I use my spare time to explore and learn everything I can about:
 * Offensive Security
-* Multi-Cloud Penetration Testing (GCP, AWS, Azure)
+* Multi-Cloud Penetration Testing
 * Red Teaming
 * Purple Teaming
 
