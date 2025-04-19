@@ -14,7 +14,7 @@ I spend some of my time exploring and learning everything I can about:
 * Purple Teaming
 
 Some of the certifications I have are:
-* RED TEAM: CRT-COI | CPIA | MCRTA | C3SA | CNSP | CAP | THM - Offensive Pentesting | THM - Red Teaming | CNA - Ethical Hacker | OEHE | OWEE | OCOE
+* Red Team: CRT-COI | CPIA | MCRTA | C3SA | CNSP | CAP | THM - Offensive Pentesting | THM - Red Teaming | CNA - Ethical Hacker | OEHE | OWEE | OCOE
 * Purple Team: AIQ  (Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning) | PTF | FTIA | CNA - Cyber Threat Management
 * Blue Team: BTJA | BTF | CNA - Network Defense | CNA - Endpoint Security
 * ISC2 Certified in CyberSecurity (CC)
