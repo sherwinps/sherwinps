@@ -1,6 +1,6 @@
 ## Heyyyyy!!!!! 😎😎😎
 
-I have 25+ years of acquired experience (and expertise) in:
+I have 25+ years of acquired experience in:
 * Systems Engineering
 * Systems and Security Management
 * Systems and Cloud Administration
