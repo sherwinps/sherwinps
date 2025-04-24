@@ -9,7 +9,7 @@ I have 25+ years of acquired experience in:
 
 I spend some of my time exploring and learning everything I can about:
 * Offensive Security
-* Multi-Cloud Penetration Testing
+* Multi-Cloud Penetration Testing (Azure, AWS, GCP)
 * Red Teaming
 * Purple Teaming
 
