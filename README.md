@@ -17,7 +17,7 @@ Some of the certifications I have are:
 * Certified Red Team - CredOps Infiltrator
 * Multi Cloud Red Team Analyst
 * TryHackMe - Red Teaming | Offensive Pentesting | Jr. Pentester
-* Cisco Networking Academy - Ethical Hacker | Network Defense | Cyber THreat Management | Endpoint Security
+* Cisco Networking Academy - Ethical Hacker | Network Defense | Cyber Threat Management | Endpoint Security
 * Certified Network Security Practitioner
 * Certified AppSec Practitioner
 * OPSWAT Ethical Hacking Expert
