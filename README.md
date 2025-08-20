@@ -13,7 +13,7 @@ I spend some of my time exploring and learning everything I can about:
 * Purple Teaming
 
 Some of the certifications I have are:
-* Certifiec Process Injection Analyst
+* Certified Process Injection Analyst
 * Certified Red Team - CredOps Infiltrator
 * Multi Cloud Red Team Analyst
 * TryHackMe - Red Teaming | Offensive Pentesting | Jr. Pentester
