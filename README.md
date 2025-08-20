@@ -13,9 +13,20 @@ I spend some of my time exploring and learning everything I can about:
 * Purple Teaming
 
 Some of the certifications I have are:
-* Red Team: CRT-COI | CPIA | MCRTA | C3SA | CNSP | CAP | CNA - Ethical Hacker | THM - Offensive Pentesting | THM - Red Teaming | THM - Jr. Pentester | OEHE | OWEE | OCOE
-* Purple Team: AIQ  (Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning) | PTF | FTIA | CNA - Cyber Threat Management
-* Blue Team: BTJA | BTF | CNA - Network Defense | CNA - Endpoint Security
+* Certifiec Process Injection Analyst
+* Certified Red Team - CredOps Infiltrator
+* Multi Cloud Red Team Analyst
+* TryHackMe - Red Teaming | Offensive Pentesting | Jr. Pentester
+* Cisco Networking Academy - Ethical Hacker | Network Defense | Cyber THreat Management | Endpoint Security
+* Certified Network Security Practitioner
+* Certified AppSec Practitioner
+* OPSWAT Ethical Hacking Expert
+* OPSWAT Web Exploiation Expert
+* OPSWAT Comprehensive OSINT Expert  
+* ArcX Foundational Threat Intelligence Analyst
+* AttackIQ - Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning)
+* Blue Team Junior Analyst
+* Certified CyberSecurity Analyst
 * ISC2 Certified in CyberSecurity (CC)
 * Microsoft Specialist - Implementing Microsoft Azure Infrastructure Solutions
 * Microsoft Specialist - Server Virtualization with Windows Server Hyper-V and System Center
