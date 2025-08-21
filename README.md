@@ -24,7 +24,7 @@ Some of the certifications I have are:
 * OPSWAT Web Exploiation Expert
 * OPSWAT Comprehensive OSINT Expert  
 * ArcX Foundational Threat Intelligence Analyst
-* AttackIQ - Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning)
+* AttackIQ - Intermediate Purple Teaming | Intermediate Breach and Attack Simulation | Threat Informed Intelligence | Threat Alignment | Emulation Planning
 * Blue Team Junior Analyst
 * Certified CyberSecurity Analyst
 * ISC2 Certified in CyberSecurity (CC)
