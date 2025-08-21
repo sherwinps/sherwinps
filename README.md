@@ -3,7 +3,7 @@
 I have 25+ years of acquired experience in:
 * Systems and Security Management
 * Systems and Cloud Administration
-* Application Development, Deployment, Packaging and Automation
+* Application Deployment, Packaging and Automation
 * Server and Desktop Virtualization
 
 I spend some of my time exploring and learning everything I can about:
