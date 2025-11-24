@@ -1,14 +1,8 @@
 ## Heyyyyy!!!!! 😎😎😎
 
-I have 25+ years of acquired experience in:
-* Cloud and Systems Management
-* Identity Access and Security Management
-* Application Deployment, Packaging and Automation
-* Server and Desktop Virtualization
-
 I spend some of my time exploring and learning everything I can about:
 * Offensive Security
-* Multi-Cloud Penetration Testing (Azure, AWS, GCP)
+* Multi-Cloud Penetration Testing
 * Red Teaming
 * Purple Teaming
 
