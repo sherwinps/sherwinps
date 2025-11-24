@@ -1,10 +1,10 @@
 ## Heyyyyy!!!!! 😎😎😎
 
-I spend some of my time exploring and learning everything I can about:
-* Offensive Security
-* Multi-Cloud Penetration Testing
-* Red Teaming
-* Purple Teaming
+🌱 I spend some of my time exploring and learning everything I can about:
+- 😎 Offensive Security
+- 😎 Multi-Cloud Penetration Testing
+- 😎 Red Teaming
+- 😎 Purple Teaming
 
 <!--
 **sherwinps/sherwinps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
