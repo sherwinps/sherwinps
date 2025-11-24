@@ -1,8 +1,8 @@
 ## Heyyyyy!!!!! 😎😎😎
 
 I have 25+ years of acquired experience in:
-* Systems and Security Management
-* Systems and Cloud Administration
+* Cloud and Systems Management
+* Identity Access and Security Management
 * Application Deployment, Packaging and Automation
 * Server and Desktop Virtualization
 
